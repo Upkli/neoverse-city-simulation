@@ -1,0 +1,16 @@
+
+# Build output
+*.exe
+*.o
+*.out
+bin/
+obj/
+
+# Runtime data files
+*.dat
+config.txt
+city_logs_export.csv
+
+# Code::Blocks generated files
+*.depend
+*.layout
